@@ -10,3 +10,11 @@ body {
   font-variant: normal;
   text-transform: none;
 }
+
+h1 {
+  font-size: 20px;
+}
+
+a {
+  color: #cc6600;
+}
