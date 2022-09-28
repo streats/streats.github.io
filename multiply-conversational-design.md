@@ -8,10 +8,8 @@
 ## Design problem
 To generate a unique financial plan, we needed users to provide information about their financial and life circumstances - in financial advice, this is known as a fact find. In our previous web-based app, the fact find was a single-page form with conditional logic. This form was linear and required users to answer all questions in one go to be able to progress through the onboarding process. This could leave users ‘stuck’ if they didn't have certain information to hand - a particularly common obstacle when answering questions about financial assets.
 
-
-Screenshot of Multiply onboarding questions about assets and debts, including yes/no questions, checkboxes and free text input
-Legacy web app: a linear questionnaire with multiple choice questions and free text input. If users could not complete a particular question, they would not be able to proceed any further, causing immediate drop-off.
-
+![Legacy web app: a linear questionnaire with multiple choice questions and free text input. If users could not complete a particular question, they would not be able to proceed any further, causing immediate drop-off.
+](https://user-images.githubusercontent.com/12902836/192864365-4045aeed-9758-4bc8-8aa0-afc28b134e23.png)
 
 As part of our design sprint to redesign the app to a native iOS app, we decided to break the fact find into sections, allowing the user to save information to return to later. We also decided to implement chatbot-style conversational UI to guide users through these onboarding questions, and in line with industry trends and user expectations.
 
@@ -20,11 +18,9 @@ Starting with our existing fact find, and a list of customer details we knew we 
 
 Using low-fidelity tools such as whiteboarding, Post-It notes, and Google Docs, I mapped out what questions and content we would need to include in the conversational scripts. I then further developed the Google Doc ‘script’ of all the questions to indicate the conditional logic. 
 
+![Whiteboard mapping out possible onboarding questions and conditional logic. This method allowed me to quickly experiment with different question pathways and easily visualise the complexity of the logic design.](https://user-images.githubusercontent.com/12902836/192864673-1943f04c-61b8-44df-8830-f879f678e9d9.jpeg)
 
-Whiteboard mapping out possible onboarding questions and conditional logic. This method allowed me to quickly experiment with different question pathways and easily visualise the complexity of the logic design.
-
-Google Doc file showing conversational UI script for 'Assets' section of onboarding questions
-Google Doc ‘script’ for “Assets” section of onboarding fact find. Each section had a short introduction to give users context about what was expected, and conditional logic was mapped out using ‘if’ rules. 
+![Google Doc ‘script’ for “Assets” section of onboarding fact find. Each section had a short introduction to give users context about what was expected, and conditional logic was mapped out using ‘if’ rules.](https://user-images.githubusercontent.com/12902836/192864727-bc0060d7-7bdc-42ad-9750-4b224ea75e74.jpeg) 
 
 I produced artefacts in Figma to illustrate the user flow and interactions through each section of the fact find. These were then shared with the developers who could begin to code the foundations for the ‘chatbot’.
 
@@ -51,8 +47,7 @@ For example, following our decision to ask users if they were “married or in a
 
 In some cases this included links to official resources, such as GOV.UK or other national authorities. 
 
-Mobile screens with onboarding questions and contextual help answers
-Onboarding questions and contextual help: “Are you married or in a civil partnership?” offered users information on “What is a civil partnership?” with an explanation that it is a legal relationship. Another question asking the user if they want to include their child’s student living costs in their college savings goal provided contextual help about average university living costs in the UK, and includes link to the government’s student finance calculator.
+![Onboarding questions and contextual help: “Are you married or in a civil partnership?” offered users information on “What is a civil partnership?” with an explanation that it is a legal relationship. Another question asking the user if they want to include their child’s student living costs in their college savings goal provided contextual help about average university living costs in the UK, and includes link to the government’s student finance calculator.](https://user-images.githubusercontent.com/12902836/192864805-672d8805-706d-492f-ad45-5febdcf860cc.jpeg)
 
 ## Outcome
 Following the 2-week sprint to redesign the app, which included the new conversational UI ‘chatbot’ onboarding, the designers and I supported the developers in implementing the functionality through design iteration and testing. We successfully relaunched Multiply as a native iOS app approximately 3 months later, in October 2018, meeting our delivery deadline. 
