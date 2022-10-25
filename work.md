@@ -23,7 +23,13 @@ App Store marketing and product education articles for fafinder, a discovery and
 * [Just launched: Browse by tag!](https://medium.com/fafinder/just-launched-browse-by-tag-55a92f4f3a18) on Medium
 * [How to get what you want](https://medium.com/fafinder/find-what-you-want-with-fotocon-95b0aa3573ea) on Medium
 
-## Blogs and articles
+## Blogs
+Writing about my work and other professional topics. 
+
+* [10 tips for working with a service designer](https://services.blog.gov.uk/2022/04/25/10-tips-for-working-with-a-service-designer/) on GOV.UK
+* [New case study: how NHS Digital used API management to support APIs at scale](https://technology.blog.gov.uk/2022/03/11/new-case-study-how-nhs-digital-used-api-management-to-support-apis-at-scale/) on GOV.UK
+
+## Articles
 Writing for various online publications aligned with my personal interests, which I researched and wrote in my free time.
 
 * [A Bloody Waste: Eco-friendly periods](https://headstuff.org/topical/science/eco-friendly-periods/) on Headstuff.com
