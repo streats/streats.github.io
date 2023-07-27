@@ -15,4 +15,7 @@ include:
 exclude:
     - 404.md
     - README.md
+    - daye-closing-shop.md
+    - discount-codes.md
+    - multiply-conversational-design.md
 theme: minima
