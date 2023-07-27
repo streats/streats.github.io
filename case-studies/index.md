@@ -1,3 +1,8 @@
+---
+navigation_weight: 3
+title: Case studies
+---
+
 # Case studies
 
 Here are some in-depth write-ups of specific projects and releases I've worked on in various roles. 
