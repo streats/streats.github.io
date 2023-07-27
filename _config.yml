@@ -14,4 +14,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 exclude:
     - 404.md
+    - README.md
 theme: minima
