@@ -25,4 +25,4 @@ Accessibility functionality for this website that has not yet been tested includ
 * custom browser or operating system color settings
 
 ## Accessibility feedback
-If you would like to help me improve the accessibility of this website, please contact me - I’d love to hear from you. 
+If you would like to help me improve the accessibility of this website, please [contact me](contact.md) - I’d love to hear from you. 
