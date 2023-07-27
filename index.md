@@ -1,9 +1,8 @@
 ---
 navigation_weight: 1
-title: Home
+title: Welcome
 ---
 
-# Welcome
 I’m Annie, a user-centered designer, focused on content, research and accessibility. 
 
 This website hosts my [resume](resume.md), [writing portfolio](/work/index.md), [case studies](/case-studies/index.md), and [miscellaneous publishings](misc.md). 
