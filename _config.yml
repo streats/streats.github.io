@@ -7,6 +7,7 @@ relative_links:
   collections: true
 collections: 
   menu-links:
+    output: true
     sort-by: navigation_weight
 include:
   - CONTRIBUTING.md
