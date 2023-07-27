@@ -4,7 +4,7 @@ A selection of my work across various channels and content disciplines.
 ## UI/UX Writing
 Product copy for apps, websites and transactional emails, for a variety of digital products. 
 
-See the [Case Studies](../case-studies) page.
+See the [Case Studies](../case-studies/index.md) page.
 
 ## Content strategy and brand writing
 Developing tone of voice and content processes for startups. 
