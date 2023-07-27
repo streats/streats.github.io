@@ -1,6 +1,5 @@
 ---
 title: Discount codes in a day
-navigation_weight: 1
 ---
 
 ## Project overview
