@@ -1,3 +1,8 @@
+---
+navigation_weight: 1
+title: Annie Streater
+---
+
 # Welcome
 I’m Annie, a user-centered designer, focused on content, research and accessibility. 
 
