@@ -1,6 +1,6 @@
 ---
 navigation_weight: 1
-title: Annie Streater
+title: Home
 ---
 
 # Welcome
