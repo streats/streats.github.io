@@ -1,6 +1,6 @@
 ---
 navigation_weight: 5
-title: Making my reaumé accessible
+title: Making my resumé accessible
 ---
 
 I recently revamped my resumé (also known as CV) to be more accessible. I’ve learned a lot about accessibility in the past couple of years, and some of my work as a content designer in technology has even included writing guidance on making content and documents more accessible. 
