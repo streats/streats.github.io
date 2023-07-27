@@ -2,7 +2,7 @@
 title: 'Transferable Skills in Technology: My experience becoming a Technical Writer'
 ---
 
-Hi everyone, I’m Annie, I’m a technical writer and I’ve been in the role since October 2020. The content that follows is adapted from a presentation I gave at a careers event my organisation ran for people underrepresented in user-centred design careers. However, please note that this is a reflection of my own experience and views only.  
+The content on this page is adapted from a presentation I gave at a careers event for people underrepresented in user-centred design careers, while working as a technical writer for the Government Digital Service. Please note that this is a reflection of my own experience and views only.  
 
 ## What technical writing is
 The first thing I’ll say is you absolutely do not need to know how to code to be a technical writer. My job is to help all kinds of people make sense of specialist information that can often have lots of technical terminology. It can be helpful if you have a bit of a conceptual understanding of software or if you’ve worked with technology teams before, but it’s often actually more valuable if you’re not an expert! 
