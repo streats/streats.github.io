@@ -1,5 +1,5 @@
 # Accessibility statement
-I’ve designed this website to be the most accessible I can make it so it can be used by as many people as possible. However, since it was built using Squarespace, some parts of how the site works are unfortunately out of my control or not easily configurable. I’m working on improving this!
+I’ve designed this website to be the most accessible I can make it so it can be used by as many people as possible. I’m always working on improving this!
 
 This accessibility statement sets out the compatibility and limitations of this website and was inspired in part by the [GOV.UK Accessibility statement](https://www.gov.uk/help/accessibility-statement). 
 
