@@ -4,8 +4,8 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true
-  sort_by: navigation_weight
+  collections: 
+    sort_by: navigation_weight
 include:
   - CONTRIBUTING.md
   - LICENSE.md
