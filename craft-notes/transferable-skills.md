@@ -1,5 +1,5 @@
 ---
-title: Transferable Skills in Technology: My experience becoming a Technical Writer
+title: 'Transferable Skills in Technology: My experience becoming a Technical Writer'
 ---
 
 Hi everyone, I’m Annie, I’m a technical writer and I’ve been in the role since October 2020. The content that follows is adapted from a presentation I gave at a careers event my organisation ran for people underrepresented in user-centred design careers. However, please note that this is a reflection of my own experience and views only.  
