@@ -4,10 +4,7 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-collections:
-  case-studies:
-    output: true
-    sort_by: navigation_weight
+collections: true
 include:
   - CONTRIBUTING.md
   - LICENSE.md
