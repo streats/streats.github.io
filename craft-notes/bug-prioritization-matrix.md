@@ -16,7 +16,7 @@ These are 'launchblockers', or even in some cases 'someone needs to wake up righ
 - App is completely inaccessible or unusable
   - Browser crashes or freezes 
   - Page is blank or inaccessible
-  - UI elements broken such that it renders the page on usable
+  - UI elements broken such that it renders the page unusable
 
 ## Priority 2 - High
 
@@ -24,7 +24,7 @@ These are 'launchblockers', or even in some cases 'someone needs to wake up righ
   - Unresponsive UI elements
   - Infinite or unreasonably long page loading time
   - Broken links
-  - Error message that is unresolvable by the user
+  - Error that is unresolvable by the user
 
 ## Priority 3 - Medium
 
