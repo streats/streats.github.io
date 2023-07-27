@@ -1,5 +1,5 @@
 ---
-navigation_weight: 3
+navigation_weight: 5
 title: Accessibility statement
 ---
 
