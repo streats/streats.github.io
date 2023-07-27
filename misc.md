@@ -1,3 +1,7 @@
+---
+navigation_weight: 4
+---
+
 # Miscellaneous publishings
 Resources I've written up based on my professional experience.<br>
 * [Bug Prioritisation Matrix](https://github.com/streats/streats.github.io/issues/1)
