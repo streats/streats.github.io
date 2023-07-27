@@ -1,4 +1,7 @@
-# Building a financial future, for free
+---
+title: Building a financial future, for free
+---
+
 ## Project overview
 * Client: Multiply is a free app that provides personalised, holistic financial advice for everyday people. To generate their unique financial plan, users provide information about their financial and life circumstances by answering questions in a chatbot-style conversational UI.
 * Project: Conversational UI design to guide users through complex financial questions with friendly language
