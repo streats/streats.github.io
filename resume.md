@@ -1,3 +1,8 @@
+---
+title: Resumé
+navigation_weight: 2
+---
+
 # Resumé
 Content professional with experience in internationalization, mobile products and accessibility. Having worked in startups as well as public sector organizations, I know how to design for a variety of environments and users, and have experience with both high-level content strategy and hands-on content delivery. 
 
