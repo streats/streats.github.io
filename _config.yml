@@ -25,5 +25,5 @@ exclude:
     - work/multiply-language-style.md
     - content-craft/making-resume-accessible.md
     - content-craft/transferable-skills.md
-    - content-craft/bug-prioritization-matrix.md
+    - /content-craft/bug-prioritization-matrix.md
 theme: minima
