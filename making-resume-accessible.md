@@ -1,5 +1,4 @@
 ---
-navigation_weight: 5
 title: Making my resumé accessible
 ---
 
