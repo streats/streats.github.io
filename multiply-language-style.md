@@ -1,13 +1,15 @@
+# Writing excerpt: Style guide development
+
 Below is an excerpt of an initial tone of voice and style guide I created for Multiply, a financial planning app, shortly after joining as the company’s first product-focused hire. This was loosely inspired by [Mailchimp’s style guide](https://styleguide.mailchimp.com/). I later collaborated on it with our Head of Growth (who was responsible for our branding and marketing), and parts of it were developed further with the arrival of our first content designer. 
 
-# Language & Style Guide
+## Language & Style Guide
 This style guide applies to the language used within the product, across various comms material, and for the company and brand in general. 
 
 There are multiple areas of the business which need some form of written content, and in order to build a strong brand and deliver a valuable user experience, the type of language we use really matters. 
 
 These various areas should all follow the same general overarching style principles, but may differ in tone depending on the context. 
 
-## Brand Messaging
+### Brand Messaging
 How we talk about ourselves, the company. 
 
 * Press releases (e.g. announcements of fundraising)
@@ -17,7 +19,7 @@ How we talk about ourselves, the company.
 
 Tone: Professional, fact-based, semi-promotional
 
-## Product Copy
+### Product Copy
 The wording used in the product itself.
 
 * CTA buttons, menus, navigation
@@ -27,7 +29,7 @@ The wording used in the product itself.
 
 Tone: Intuitive, friendly, explanatory
 
-## Product Marketing
+### Product Marketing
 How we talk about the product to promote it and encourage engagement.
 
 * Product launches and updates (e.g. an email newsletter announcing a new feature)
@@ -36,7 +38,7 @@ How we talk about the product to promote it and encourage engagement.
 
 Tone: Creative, friendly, engaging
 
-## Content Marketing
+### Content Marketing
 How we enhance people’s perception of personal finance - outside the core product experience -  with engaging, relevant content. 
 
 * Blog posts
@@ -46,7 +48,7 @@ How we enhance people’s perception of personal finance - outside the core prod
 
 Tone: Explanatory, aspirational, fun
 
-## Support Content 
+### Support Content 
 FAQs and Help Center content
 
 * Common responses for user support emails
@@ -54,7 +56,7 @@ FAQs and Help Center content
 
 Tone: User-centric, compassionate, friendly
 
-## Voice & Tone
+### Voice & Tone
 In general the overall tone of Multiply is:
 
 * Inclusive - jargon-free, accessible for people regardless of circumstances/knowledge
