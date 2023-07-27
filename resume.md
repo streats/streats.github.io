@@ -1,7 +1,12 @@
-# Summary
+# Resumé
 Content professional with experience in internationalization, mobile products and accessibility. Having worked in startups as well as public sector organizations, I know how to design for a variety of environments and users, and have experience with both high-level content strategy and hands-on content delivery. 
 
 ## Professional Experience
+
+### GitHub
+#### Senior Content Designer, Since June 2023
+Making Docs awesome. 
+
 ### UK Government, Cabinet Office
 #### Technical Writer, October 2020 to Present
 I design technical guidance for technologists in government, with a focus on APIs and technical standards compliance. I produce content that meets GOV.UK style and accessibility standards.
