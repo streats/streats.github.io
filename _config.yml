@@ -5,6 +5,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+  sort_by: navigation_weight
 include:
   - CONTRIBUTING.md
   - LICENSE.md
