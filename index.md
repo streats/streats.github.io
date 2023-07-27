@@ -10,3 +10,8 @@ Resources I've written up based on my professional experience.<br>
 ## Contact me
 [@streats_ on Twitter](https://twitter.com/streats_), though I rarely use it.
 You can also contact me by [filing an issue on my GitHub](https://github.com/streats/streats.github.io/issues)
+
+
+## Acknowledgements
+
+Many thanks to nicolas van for their [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/) article which helped me set up a simple, responsive, accessible static site. 
