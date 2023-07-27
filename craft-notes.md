@@ -1,6 +1,6 @@
 ---
-navigation_weight: 4
 title: Craft notes
+navigation_weight: 4
 ---
 Resources I've written up based on my professional experience.<br>
 * [Bug Prioritisation Matrix](https://github.com/streats/streats.github.io/issues/1)
