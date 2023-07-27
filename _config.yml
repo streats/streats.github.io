@@ -6,8 +6,8 @@ relative_links:
   enabled: true
 collections:
   case-studies:
-    output: false
-sort_by: navigation_weight
+    output: true
+    sort_by: navigation_weight
 include:
   - CONTRIBUTING.md
   - LICENSE.md
