@@ -1,6 +1,6 @@
 ---
-navigation_weight: 3
 title: Case studies
+navigation_weight: 3
 ---
 
 Here are some in-depth write-ups of specific projects and releases I've worked on in various roles. 
