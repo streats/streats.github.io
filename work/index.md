@@ -1,9 +1,9 @@
 ---
 permalink: /work/
 navigation_weight: 3
+title: Writing examples
 ---
 
-# Examples of my writing
 A selection of my work across various channels and content disciplines. 
 
 ## UI/UX Writing
