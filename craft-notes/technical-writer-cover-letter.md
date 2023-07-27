@@ -2,7 +2,7 @@
 title: 'Extracts from a cover letter - Technical Writer' 
 ---
 
-Here are some excerpts from the cover letter I used for my current role as technical writer. I was coming from a product management background and had no formal content role experience, so my strategy with this cover letter was to tell the story of how content has been my superpower throughout my career and demonstrate how I have been doing this job all along. 
+Here are some excerpts from the cover letter I used for my former role as technical writer. I was coming from a product management background and had no formal content role experience, so my strategy with this cover letter was to tell the story of how content has been my superpower throughout my career and demonstrate how I have been doing this job all along. 
 
 Note: I can't speak for my former employer as to how this cover letter contributed to me getting the job, so please take this as illustrative purposes only! 
 
