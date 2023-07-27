@@ -1,4 +1,7 @@
-# Closing up shop for the holidays
+---
+title: Closing up shop for the holidays
+navigation_weight: 4
+---
 
 ## Project overview
 
