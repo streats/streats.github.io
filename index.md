@@ -1,7 +1,7 @@
 # Welcome
 I’m Annie, a user-centered designer, focused on content, research and accessibility. 
 
-This website hosts my [resume](resume.md), [writing portfolio](/work), [case studies](/case-studies), and [miscellaneous publishings](misc.md). 
+This website hosts my [resume](resume.md), [writing portfolio](/work/index.md), [case studies](/case-studies/index.md), and [miscellaneous publishings](misc.md). 
 
 This site has been optimized for accessibility. To learn more, read my Accessibility Statement.  
 
