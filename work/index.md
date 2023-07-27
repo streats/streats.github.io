@@ -9,7 +9,7 @@ See the [Case Studies](../case-studies/index.md) page.
 ## Content strategy and brand writing
 Developing tone of voice and content processes for startups. 
 
-* [Language and style guide for Multiply.ai](/multiply-language-style.md)
+* [Language and style guide for Multiply.ai](multiply-language-style.md)
 
 ## Technical writing
 Guidance, standards and best practice for technologists in the public sector.
