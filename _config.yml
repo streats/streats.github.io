@@ -17,7 +17,7 @@ include:
 exclude:
     - 404.md
     - README.md
-      - /case-studies/daye-closing-shop.md
+    - /case-studies/daye-closing-shop.md
     - /case-studies/discount-codes.md
     - /case-studies/multiply-conversational-design.md
     - work/multiply-language-style.md
