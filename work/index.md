@@ -1,3 +1,7 @@
+---
+permalink: /work/
+---
+
 # Examples of my writing
 A selection of my work across various channels and content disciplines. 
 
