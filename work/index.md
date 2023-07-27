@@ -1,6 +1,5 @@
 ---
 title: Writing samples
-permalink: /work/
 navigation_weight: 3
 ---
 
