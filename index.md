@@ -8,7 +8,7 @@ I’m Annie, a user-centered designer, focused on content, research and accessib
 
 This website hosts my [resume](resume.md), [writing portfolio](/work/index.md), [case studies](/case-studies/index.md), and [miscellaneous publishings](misc.md). 
 
-This site has been optimized for accessibility. To learn more, read my Accessibility Statement.  
+This site has been optimized for accessibility. To learn more, read my [Accessibility Statement](accessibility-statement.md).
 
 ## Contact me
 I'm [@streats_ on Twitter](https://twitter.com/streats_), though I rarely use it.
