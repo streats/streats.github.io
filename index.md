@@ -1,6 +1,6 @@
 ---
-navigation_weight: 1
 title: Welcome
+navigation_weight: 1
 ---
 
 I’m Annie, a user-centered designer, focused on content, research and accessibility. 
