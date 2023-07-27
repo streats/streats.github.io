@@ -1,0 +1,84 @@
+---
+title: Transferable Skills in Technology: My experience becoming a Technical Writer
+---
+
+Hi everyone, I’m Annie, I’m a technical writer and I’ve been in the role since October 2020. The content that follows is adapted from a presentation I gave at a careers event my organisation ran for people underrepresented in user-centred design careers. However, please note that this is a reflection of my own experience and views only.  
+
+## What technical writing is
+The first thing I’ll say is you absolutely do not need to know how to code to be a technical writer. My job is to help all kinds of people make sense of specialist information that can often have lots of technical terminology. It can be helpful if you have a bit of a conceptual understanding of software or if you’ve worked with technology teams before, but it’s often actually more valuable if you’re not an expert! 
+
+At my organisation, technical writers work on either documentation (detailed instructions for developers on how to use a specific piece of software), or guidance (general conceptual or practical information about a type or area of technology), or both. I am a guidance writer. My users might be developers who are learning how to use a type of technology that’s new to them, or they might be a senior technologist who needs to understand different types of software to help them make decisions for their team.
+
+Outside of my organisation, in the technology content industry in general, technical writing can also include things like making medical, legal or financial information more understandable.
+
+## Transferable skills
+This is my first technical writing role, but a lot of what I’ve done in previous jobs and roles was transferable to doing this work. A lot of what I did before was technically technical writing, I just didn’t realise it! 
+
+So I’ll just give a few examples of some jobs I did before and what skills from them I’ve found apply to technical writing. 
+
+### Customer support 
+Technical writing is a lot like customer service or user support. You’re there to guide someone through a particular task they’re trying to complete or help them solve a problem they’re having. 
+
+Some transferable skills include:
+
+- Making sense of chaos: You get lots of information thrown at you, often mixed up, and you need to be able to get to the root of what’s going on
+- Specialist knowledge: You end up knowing the product or service really well, or being able to learn that quickly
+- Connecting ideas: You act as a connector, between what the user needs and what information is going to help them
+- Finding solutions: There’s lots of problem solving, getting creative with how you support your users in the content that you write
+- Personalising content: It helps to use what you know about the user to reassure them that you understand what’s important to them
+
+### Product/project management
+
+I was a product manager at startups, but really any job where you’ve had to keep everyone organised, know what’s going on, make sure things are on track, is going to be really helpful. 
+
+It's things like:
+
+- Planning
+- Defining requirements
+- Working with constraints
+- Managing relationships
+- Presenting ideas
+
+A lot of these skills are exactly the same in technical writing - know what the needs are, what the limitations are, coming up with an approach for getting it done. You will be working with others, whether that’s other technical writers or people in other roles like product owner or developer, and you’ll sometimes need to bring them along in your thinking. 
+
+### Teaching
+
+Non-tech jobs are transferable too. I’ve also done some teaching in a summer camp for teens. Technical writing is a communication role - you’re passing information on to people who most likely don’t already know it or understand it. So it’s like teaching in a way. Or training, or tutoring, or coaching. Anything where you’re helping people understand and learn things. 
+
+Useful skills to bring from these roles include:
+
+- Research: You need to know what you’re going to include and might need to do some additional research to plan out how you’re going to deliver that. 
+- Understanding your audience: Understanding who the content is for and what level of understanding they already have is really important so you can pitch it at the right level. 
+- Measuring and adapting: You also need to be able to measure how the content is performing - how are people responding to it, is it helpful? You might need to adapt the content based on feedback or test results. 
+- Structured thinking: Presenting information in a structured way so people know what to expect and can follow it clearly. 
+- Being an advocate: As someone in a user-centred design role, you constantly need to be an advocate for your users, represent them, fight for them, give them a voice. 
+
+## More than just writing
+The day to day job is a real mix of things, it’s not just writing. Most of what I do fits into these three areas:
+
+- Understanding - desk research, interviewing an expert on my team, user research
+- Creating - planning, writing, editing, publishing
+- Advocating - being the voice of the user, but also championing technical writing as a discipline and helping departments understand why it’s useful to have a technical writer on your team
+
+Some of this I’ve learnt on the job, but a lot of it is just doing what I already know how to do, applying it in a different way.
+
+## "I think I could do that?"
+If any of this has resonated with you so far, you could be a great fit for technical writing. This is literally what I thought to myself after reading the job listing. 
+
+You might also love it if you:
+
+- enjoy paying attention to small details
+- like having a varied job working across different disciplines of user-centred design
+- are interested in what software and technology can do but don’t actually want to be a programmer
+- hate jargon and 'smarty-pants' language
+- love organising and making things orderly
+
+## Day to day role
+
+Some things I’ve been doing so far in this role:
+
+- Collaborating on content with subject matter experts and other content people using Google Docs
+- Learning about accessibility and sharing that knowledge with my technical writing colleagues
+- Using online tools like Mural and Padlet to create mind maps and user journey maps to help plan content and understand how users find and interact with our content
+- Presenting drafts of my guidance to a community of API users to get feedback from the developers, product owners, and business analysts who it’s written for
+- Participating in content crits with other technical writers to help them improve their content
