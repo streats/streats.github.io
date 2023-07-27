@@ -1,5 +1,6 @@
 ---
 permalink: /work/
+navigation_weight: 3
 ---
 
 # Examples of my writing
