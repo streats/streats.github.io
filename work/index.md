@@ -1,7 +1,7 @@
 ---
+title: Writing samples
 permalink: /work/
 navigation_weight: 3
-title: Writing examples
 ---
 
 A selection of my work across various channels and content disciplines. 
