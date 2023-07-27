@@ -23,4 +23,6 @@ exclude:
     - /craft-notes/making-resume-accessible.md
     - /craft-notes/transferable-skills.md
     - /craft-notes/bug-prioritization-matrix.md
+    - /craft-notes/vogue-a11y-fail.md
+    - /craft-notes/technical-writer-cover-letter.md
 theme: minima
