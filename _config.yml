@@ -16,11 +16,11 @@ include:
 exclude:
     - 404.md
     - README.md
-    - case-studies/daye-closing-shop.md
+    - /case-studies/daye-closing-shop.md
     - /case-studies/discount-codes.md
     - /case-studies/multiply-conversational-design.md
     - /work/multiply-language-style.md
-    - /content-craft/making-resume-accessible.md
-    - /content-craft/transferable-skills.md
-    - /content-craft/bug-prioritization-matrix.md
+    - /craft-notes/making-resume-accessible.md
+    - /craft-notes/transferable-skills.md
+    - /craft-notes/bug-prioritization-matrix.md
 theme: minima
