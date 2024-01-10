@@ -18,6 +18,7 @@ include:
   - /craft-notes/index.html
   - accessibility-statement.html
   - contact.html
+````
 exclude:
     - 404.md
     - README.md
@@ -31,4 +32,5 @@ exclude:
     - /craft-notes/vogue-a11y-fail.md
     - /craft-notes/technical-writer-cover-letter.md
     - drums-for-sale.md
+````
 theme: minima
