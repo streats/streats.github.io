@@ -1,8 +1,6 @@
 ---
 title: Contact
-layout: default
-published: true
-navigation_weight: 6
+navigation_weight: 8
 ---
 
 ## Social networks
