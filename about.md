@@ -1,6 +1,6 @@
 ---
 title: About
-navigation_weight: 2
+navigation_weight: 30
 ---
 
 Hi, I’m Annie. I create digital experiences through content and content systems.
