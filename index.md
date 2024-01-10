@@ -1,5 +1,7 @@
 ---
 title: Welcome
+layout: default
+published: true
 navigation_weight: 1
 ---
 
