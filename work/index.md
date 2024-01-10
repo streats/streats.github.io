@@ -1,6 +1,6 @@
 ---
 title: Writing samples
-navigation_weight: 3
+navigation_weight: 4
 ---
 
 A selection of my work across various channels and content disciplines. 
