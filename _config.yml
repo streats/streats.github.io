@@ -19,6 +19,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - about.md
   - welcome.md
+  - resume.md
   - /case-studies
 exclude:
     - 404.md
