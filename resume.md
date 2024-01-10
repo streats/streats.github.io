@@ -1,7 +1,5 @@
 ---
 title: Resumé
-layout: default
-published: true
 navigation_weight: 3
 ---
 
