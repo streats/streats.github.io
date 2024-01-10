@@ -1,5 +1,7 @@
 ---
 title: Accessibility statement
+layout: default
+published: true
 navigation_weight: 5
 ---
 
