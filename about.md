@@ -1,5 +1,7 @@
 ---
 title: About
+layout: default
+published: true
 navigation_weight: 30
 ---
 
