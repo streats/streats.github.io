@@ -17,6 +17,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - about.md
 exclude:
     - 404.md
     - README.md
