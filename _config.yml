@@ -10,13 +10,14 @@ collections:
     output: true
     sort-by: navigation_weight
 include:
-  - CONTRIBUTING.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - index.html
+  - about.html
+  - resume.html
+  - /work/index.html
+  - /case-studies/index.html
+  - /craft-notes/index.html
+  - accessibility-statement.html
+  - contact.html
 exclude:
     - 404.md
     - README.md
