@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Home
 navigation_weight: 1
 ---
 
