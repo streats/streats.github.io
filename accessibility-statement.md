@@ -1,6 +1,6 @@
 ---
 title: Accessibility statement
-navigation_weight: 7
+navigation_weight: 70
 ---
 
 I’ve designed this website to be the most accessible I can make it so it can be used by as many people as possible. I’m always working on improving this!
