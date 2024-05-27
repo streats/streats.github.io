@@ -14,4 +14,6 @@ include:
   - /craft-notes/index.html
   - accessibility-statement.html
   - contact.html
+exclude:
+  - 404.md
 theme: minima
