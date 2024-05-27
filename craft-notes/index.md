@@ -1,6 +1,6 @@
 ---
 title: Craft notes
-navigation_weight: 6
+navigation_weight: 60
 ---
 Resources I've written up based on my professional experience.<br>
 * [Bug Prioritization Matrix](bug-prioritization-mattix.md)
