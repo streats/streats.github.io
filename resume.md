@@ -8,11 +8,13 @@ Content professional with experience in internationalization, mobile products an
 ## Professional Experience
 
 ### Senior Content Designer, GitHub
-#### Since June 2023
-Making Docs awesome. 
+#### June 2022 to March 2024
+I worked on making sure GitHub documentation meets user needs, is scalable, discoverable and accessible. This involved managing discovery efforts, identifying and closing content strategy gaps, and bringing user-centered design practices to how we plan, create and maintain documentation for GitHub's products. 
+
+In addition, I regularly contributed to GitHub accessibility's community and culture by participating in Accessibility office hours, advising Hubbers on content accessibility, and developing accessibility guidance and training content for internal and external audiences.
 
 ### Technical Writer, UK Government, Cabinet Office
-#### October 2020 to Present
+#### October 2020 to May 2022
 I designed technical guidance for technologists in government, with a focus on APIs and technical standards compliance. I produced content that met GOV.UK style and accessibility standards.
 
 ### Product Designer, SAGE Publishing
