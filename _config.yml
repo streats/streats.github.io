@@ -31,4 +31,4 @@ exclude:
     - /craft-notes/vogue-a11y-fail.md
     - /craft-notes/technical-writer-cover-letter.md
     - drums-for-sale.md
-theme: minima
+theme: https://github.com/streats/minima
