@@ -19,4 +19,9 @@ exclude:
   - /case-studies/daye-closing-shop.md
   - /case-studies/discount-codes.md
   - /case-studies/multiply-conversational-design.md
+  - /craft-notes/bug-prioritization-matrix.md
+  - making-resume-accessible.md
+  - /craft-notes/technical-writer-cover-letter.md
+  - /craft-notes/transferable-skills.md
+  - /craft-notes/vogue-a11y-fail.md
 theme: minima
