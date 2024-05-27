@@ -1,6 +1,6 @@
 ---
 title: About
-navigation_weight: 2
+navigation_weight: 20
 ---
 
 Hi, I’m Annie. I solve design problems through content and content systems.
