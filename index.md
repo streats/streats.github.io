@@ -1,6 +1,6 @@
 ---
 title: Home
-navigation_weight: 1
+navigation_weight: 10
 ---
 
 I’m Annie, a user-centered designer focused on content, research and accessibility. 
