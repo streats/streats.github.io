@@ -1,7 +1,7 @@
 title: Annie Streater
 description: Portfolio and musings
 plugins:
-  - jekyll-relative-links
+  - jekyll-relative-links # converts links to markdown files to their html counterparts
 relative_links:
   enabled: true
   collections: true
