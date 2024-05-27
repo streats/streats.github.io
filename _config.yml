@@ -7,20 +7,20 @@ relative_links:
   collections: true
 include:
   - index.html
-  - 01_about.html
-  - 02_resume.html
+  - 20_about.html
+  - 30_resume.html
   - /work/index.html
   - /case-studies/index.html
   - /craft-notes/index.html
-  - 02_accessibility-statement.html
-  - contact.html
+  - 70_accessibility-statement.html
+  - 80_contact.html
 exclude:
   - 404.md
   - /case-studies/daye-closing-shop.md
   - /case-studies/discount-codes.md
   - /case-studies/multiply-conversational-design.md
   - /craft-notes/bug-prioritization-matrix.md
-  - making-resume-accessible.md
+  - /craft-notes/making-resume-accessible.md
   - /craft-notes/technical-writer-cover-letter.md
   - /craft-notes/transferable-skills.md
   - /craft-notes/vogue-a11y-fail.md
