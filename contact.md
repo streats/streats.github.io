@@ -1,6 +1,6 @@
 ---
 title: Contact
-navigation_weight: 8
+navigation_weight: 80
 ---
 
 ## Social networks
