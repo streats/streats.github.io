@@ -8,11 +8,11 @@ relative_links:
 include:
   - index.html
   - about.html
-  - resume.html
+  - 01_resume.html
   - /work/index.html
   - /case-studies/index.html
   - /craft-notes/index.html
-  - accessibility-statement.html
+  - 02_accessibility-statement.html
   - contact.html
 exclude:
   - 404.md
