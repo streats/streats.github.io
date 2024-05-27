@@ -16,4 +16,7 @@ include:
   - contact.html
 exclude:
   - 404.md
+  - /case-studies/daye-closing-shop.md
+  - /case-studies/discount-codes.md
+  - /case-studies/multiply-conversational-design.md
 theme: minima
