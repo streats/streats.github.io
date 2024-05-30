@@ -25,3 +25,4 @@ exclude:
   - /craft-notes/transferable-skills.md
   - /craft-notes/vogue-a11y-fail.md
   - /work/multiply-language-style.md
+theme: minima
