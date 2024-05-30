@@ -1,5 +1,6 @@
 ---
 title: 'Transferable Skills in Technology: My experience becoming a Technical Writer'
+permalink: transferable-skills.html
 ---
 
 The content on this page is adapted from a presentation I gave at a careers event for people underrepresented in user-centred design careers, while working as a technical writer for the Government Digital Service. Please note that this is a reflection of my own experience and views only.  
