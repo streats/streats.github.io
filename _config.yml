@@ -7,13 +7,13 @@ relative_links:
   collections: true
 include:
   - index.html
-  - 20_about.html
-  - 30_resume.html
+  - about.html
+  - resume.html
   - /work/index.html
   - /case-studies/index.html
   - /craft-notes/index.html
-  - 70_accessibility-statement.html
-  - 80_contact.html
+  - accessibility-statement.html
+  - contact.html
 exclude:
   - 404.md
   - /case-studies/daye-closing-shop.md
@@ -25,5 +25,3 @@ exclude:
   - /craft-notes/transferable-skills.md
   - /craft-notes/vogue-a11y-fail.md
   - /work/multiply-language-style.md
-  - index.html
-remote_theme: streats/streats.github.io
