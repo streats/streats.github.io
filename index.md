@@ -3,8 +3,6 @@ title: Welcome
 navigation_weight: 10
 ---
 
-# Welcome
-
 I’m Annie, a user-centered designer focused on content, research and accessibility.
 
 This website hosts my [resume](resume.md), [writing portfolio](/work), [case studies](/case-studies), and miscellaneous [notes about craft](/craft-notes).
