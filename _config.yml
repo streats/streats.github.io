@@ -26,3 +26,4 @@ exclude:
   - /craft-notes/vogue-a11y-fail.md
   - /work/multiply-language-style.md
   - index.html
+remote_theme: aterenin/minima-reboot
