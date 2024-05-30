@@ -5,6 +5,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+theme: minima
 header_paths:
   - index.html
   - about.html
@@ -14,15 +15,3 @@ header_paths:
   - /craft-notes/index.html
   - accessibility-statement.html
   - contact.html
-exclude:
-  - 404.md
-  - /case-studies/daye-closing-shop.md
-  - /case-studies/discount-codes.md
-  - /case-studies/multiply-conversational-design.md
-  - /craft-notes/bug-prioritization-matrix.md
-  - /craft-notes/making-resume-accessible.md
-  - /craft-notes/technical-writer-cover-letter.md
-  - /craft-notes/transferable-skills.md
-  - /craft-notes/vogue-a11y-fail.md
-  - /work/multiply-language-style.md
-  theme: minima
