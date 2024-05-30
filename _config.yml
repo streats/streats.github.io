@@ -14,5 +14,17 @@ includes:
   - /craft-notes/index.html
   - accessibility-statement.html
   - contact.html
+excludes: 
+  - 404.md
+  - /craft-notes/bug-prioritization-matrix.md
+  - /craft-notes/transferable-skills.md
+  - /craft-notes/technical-writer.md
+  - /craft-notes/vogue-a11y-fail.md
+  - /case-studies/discount-codes.md
+  - /case-studies/closing-up-shop/md
+  - /case-studies/multiply-conversational-design.md
+  - /work/making-resume-accessible.md
+  - /work/multiply-language-style.md
+  
 theme: minima
 
