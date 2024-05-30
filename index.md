@@ -5,6 +5,7 @@ navigation_weight: 10
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 I’m Annie, a user-centered designer focused on content, research and accessibility.
 
 This website hosts my [resume](resume.md), [writing portfolio](/work), [case studies](/case-studies), and miscellaneous [notes about craft](/craft-notes).
@@ -19,6 +20,8 @@ Many thanks to [Nicolas Vanhoren](https://github.com/nicolas-van) for their [Eas
 =======
 =======
 >>>>>>> parent of 9652e7b (Install Portfolio theme)
+=======
+>>>>>>> parent of 9652e7b (Install Portfolio theme)
 I’m Annie, a user-centered designer focused on content, research and accessibility. 
 
 This website hosts my [resume](resume.md), [writing portfolio](/work/index.md), [case studies](/case-studies/index.md), and [miscellaneous notes about craft](/craft-notes/index.md). 
@@ -31,6 +34,9 @@ This site has been optimized for accessibility. To learn more, read my [Accessib
 ## Acknowledgements
 Many thanks to [Nicolas Vanhoren](https://github.com/nicolas-van) for their [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/) article which helped me set up a simple, responsive, accessible static site in just a few minutes. 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 9652e7b (Install Portfolio theme)
+=======
 >>>>>>> parent of 9652e7b (Install Portfolio theme)
 =======
 >>>>>>> parent of 9652e7b (Install Portfolio theme)
