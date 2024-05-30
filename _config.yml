@@ -6,7 +6,7 @@ relative_links:
   enabled: true
   collections: true
 theme: minima
-header_paths:
+header_pages:
   - index.html
   - about.html
   - resume.html
