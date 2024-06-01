@@ -2,7 +2,10 @@
 title: Contact
 ---
 
-## Contact me
+You can contact me using the contact form below. 
+
+You can also [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues) with feedback or bug reports for this website. 
+
 <div class="container">
   <form target="_blank" action="https://formsubmit.co/el/nijove" method="POST">
     <div class="form-group">
@@ -18,9 +21,6 @@ title: Contact
     <div class="form-group">
       Message: <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
     </div>
-    <button type="submit" class="btn btn-lg btn-dark btn-block">Send</button>
+    <button type="submit" class="button">Send</button>
   </form>
 </div>
-
-## GitHub issue
-If you have feedback or bug reports, please [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues). 
