@@ -2,6 +2,8 @@
 title: Case studies
 ---
 
+<link rel="stylesheet" href="style.css">
+
 Here are some in-depth write-ups of specific projects and releases I've worked on in various roles. 
 
 ## Content strategy

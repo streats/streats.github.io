@@ -2,6 +2,8 @@
 title: Style guide development
 ---
 
+<link rel="stylesheet" href="style.css">
+
 Below is an excerpt of an initial tone of voice and style guide I created for Multiply, a financial planning app, shortly after joining as the company’s first product-focused hire. This was loosely inspired by [Mailchimp’s style guide](https://styleguide.mailchimp.com/). I later collaborated on it with our Head of Growth (who was responsible for our branding and marketing), and parts of it were developed further with the arrival of our first content designer. 
 
 ## Language & Style Guide

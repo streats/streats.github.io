@@ -1,6 +1,7 @@
 ---
 title: Making my resumé accessible
 ---
+<link rel="stylesheet" href="style.css">
 
 Note: During my time at GitHub, I reworked this piece as an internal presentation, and later collaborated with the Communities team to publish it as a GitHub Community Discussion, [Crafting an Accessible and Inclusive Resumé](https://github.com/orgs/community/discussions/62531).
 
