@@ -2,6 +2,8 @@
 title: Making my resumé accessible
 ---
 
+Note: During my time at GitHub, I reworked this piece as an internal presentation, and later collaborated with the Communities team to publish it as a GitHub Community Discussion, [Crafting an Accessible and Inclusive Resumé](https://github.com/orgs/community/discussions/62531).
+
 I recently revamped my resumé (also known as CV) to be more accessible. I’ve learned a lot about accessibility in the past couple of years, and some of my work as a content designer in technology has even included writing guidance on making content and documents more accessible.
 
 Realizing my resumé didn’t follow the principles I was applying to my other content work, I updated it to be simpler, easier to read and more compatible with assistive technology. 
