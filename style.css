@@ -13,13 +13,11 @@ body {
 
 h1 {
   font-size: 24px;
-  color: #c43c1c;
-  font-weight: bold;
+  font-weight: bolder;
 
 }
 
 h2 {
-  color: #0a3647;
   font-weight: bold;
 
 }
