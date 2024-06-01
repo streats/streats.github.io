@@ -9,9 +9,7 @@ Content professional with experience in internationalization, mobile products an
 
 ### Senior Content Designer, GitHub
 #### June 2022 to March 2024
-I worked on making sure GitHub documentation meets user needs, is scalable, discoverable and accessible. This involved managing discovery efforts, identifying and closing content strategy gaps, and bringing user-centered design practices to how we plan, create and maintain documentation for GitHub's products. 
-
-In addition, I regularly contributed to GitHub accessibility's community and culture by participating in Accessibility office hours, advising Hubbers on content accessibility, and developing accessibility guidance and training content for internal and external audiences.
+I worked on making sure GitHub documentation meets user needs, is scalable, discoverable and accessible. This involved managing discovery efforts, identifying and closing content strategy gaps, and bringing user-centered design practices to how we plan, create and maintain documentation for GitHub's products. I also contributed to GitHub accessibility's community and culture by advising Hubbers on accessible content and writing accessibility guidance for internal and external audiences.
 
 ### Technical Writer, UK Government, Cabinet Office
 #### October 2020 to May 2022
