@@ -1,6 +1,8 @@
 ---
 title: Bug Prioritization Matrix
 ---
+<link rel="stylesheet" href="style.css">
+
 Something I used in my previous life as a product manager. 
 
 Note: This is from before I knew anything about accessibility, so does not explicitly cover accessibility issues.  

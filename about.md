@@ -2,6 +2,8 @@
 title: About
 ---
 
+<link rel="stylesheet" href="style.css">
+
 Hi, I’m Annie. I solve design problems through content and content systems.
 
 I’m driven by making information and services fairer and more accessible to everyday people, through better technology, better language, and better interactions. 

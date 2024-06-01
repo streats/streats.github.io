@@ -1,6 +1,7 @@
 ---
 title: Contact
 ---
+<link rel="stylesheet" href="style.css">
 
 You can contact me through [my LinkedIn profile](https://www.linkedin.com/in/streats) or by using the contact form below. 
 

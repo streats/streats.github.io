@@ -2,6 +2,8 @@
 title: 'A11y fail: Vogue article about accessibility has images with ineffective alt text'
 ---
 
+<link rel="stylesheet" href="style.css">
+
 An [article on Vogue Business about improvements in accessibility in the beauty industry](https://www.voguebusiness.com/beauty/beauty-fails-people-with-disabilities-loreal-estee-lauder-unilever-wants-to-change-that) includes some charts and graphs which have alt descriptions which do not effectively describe the image. 
 
 For example, this image of a chart: 

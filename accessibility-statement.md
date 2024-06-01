@@ -2,6 +2,8 @@
 title: Accessibility statement
 ---
 
+<link rel="stylesheet" href="style.css">
+
 I’ve designed this website to be the most accessible I can make it so it can be used by as many people as possible. I’m always working on improving this!
 
 This accessibility statement sets out the compatibility and limitations of this website and was inspired in part by the [GOV.UK Accessibility statement](https://www.gov.uk/help/accessibility-statement). 
