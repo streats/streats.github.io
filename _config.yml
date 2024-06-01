@@ -9,9 +9,9 @@ header_pages:
   - index.md
   - about.md
   - resume.md
-  - /work/index.md
-  - /case-studies/index.md
-  - /craft-notes/index.md
+  - /work
+  - /case-studies
+  - /craft-notes
   - accessibility-statement.md
   - contact.md  
 theme: minima
