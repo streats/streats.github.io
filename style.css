@@ -13,6 +13,11 @@ body {
 
 h1 {
   font-size: 24px;
+  color: #c43c1c
+}
+
+h2 {
+  color: #0a3647
 }
 
 a:link, a:visited, a:hover, a:active {
