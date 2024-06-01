@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-You can contact me using the contact form below. 
+You can contact me through [my LinkedIn profile](https://www.linkedin.com/in/streats) or by using the contact form below. 
 
 You can also [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues) with feedback or bug reports for this website. 
 
