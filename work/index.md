@@ -1,5 +1,5 @@
 ---
-title: Writing samples
+title: Work
 navigation_weight: 40
 ---
 
