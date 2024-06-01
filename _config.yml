@@ -5,26 +5,14 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-includes:
-  - index.html
-  - about.html
-  - resume.html
-  - /work/index.html
-  - /case-studies/index.html
-  - /craft-notes/index.html
-  - accessibility-statement.html
-  - contact.html
-excludes: 
-  - 404.md
-  - /craft-notes/bug-prioritization-matrix.md
-  - /craft-notes/transferable-skills.md
-  - /craft-notes/technical-writer.md
-  - /craft-notes/vogue-a11y-fail.md
-  - /case-studies/discount-codes.md
-  - /case-studies/closing-up-shop/md
-  - /case-studies/multiply-conversational-design.md
-  - /work/making-resume-accessible.md
-  - /work/multiply-language-style.md
-  
+header_pages:
+  - index.md
+  - about.md
+  - resume.md
+  - /work/index.md
+  - /case-studies/index.md
+  - /craft-notes/index.md
+  - accessibility-statement.md
+  - contact.md  
 theme: minima
 
