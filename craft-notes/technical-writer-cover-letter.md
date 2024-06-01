@@ -2,7 +2,7 @@
 title: 'Extracts from a cover letter - Technical Writer' 
 ---
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/../style.css">
 
 Here are some excerpts from the cover letter I used for my former role as technical writer. I was coming from a product management background and had no formal content role experience, so my strategy with this cover letter was to tell the story of how content has been my superpower throughout my career and demonstrate how I have been doing this job all along. 
 

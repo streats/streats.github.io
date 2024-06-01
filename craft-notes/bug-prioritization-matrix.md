@@ -1,7 +1,7 @@
 ---
 title: Bug Prioritization Matrix
 ---
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/../style.css">
 
 Something I used in my previous life as a product manager. 
 

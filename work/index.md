@@ -2,7 +2,7 @@
 title: Work
 ---
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/../style.css">
 
 A selection of my work across various channels and content disciplines. 
 

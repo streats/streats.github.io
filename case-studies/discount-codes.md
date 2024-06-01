@@ -2,7 +2,7 @@
 title: Discount codes in a day
 ---
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="/../style.css">
 
 ## Project overview
 * Client: Daye is a tampon subscription service. Customers create their custom tampon box according to their needs, and set the delivery frequency based on their cycle length. Tampons are delivered directly to their door just in time for their period.
