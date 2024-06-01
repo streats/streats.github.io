@@ -7,22 +7,26 @@ A selection of my work across various channels and content disciplines.
 
 ## ℹ️ Informational writing
 
-### UI/UX Writing
-Product copy for apps, websites and transactional emails, for a variety of digital products. 
-
-See the [Case Studies](../case-studies/index.md) page.
-
-### Technical writing
-Guidance, standards and best practice for technologists in the public sector.
-
-* [Using GraphQL for your API on GOV.UK](https://www.gov.uk/guidance/using-graphql-for-your-api)
-* [Creating and sharing spreadsheets on GOV.UK](https://www.gov.uk/guidance/creating-and-sharing-spreadsheets)
-
 ### Content strategy and style guide development
 Developing tone of voice and content processes for content-producing teams. 
 
 * GitHub Docs style guide: [Callouts](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide#callouts), [Footnotes](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide#footnotes), [Tables](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide#tables)
 * [Language and style guide for Multiply.ai](multiply-language-style.md)
+
+### UI/UX Writing
+Product copy for apps, websites and transactional emails for digital products and services. 
+
+* [Closing up shop for the holidays](daye-closing-shop.md): Web and email messaging for eCommerce site seasonal wind-down.
+* [Discount codes in a day](discount-codes.md): UX design and transactional microcopy for adding discount codes to eCommerce checkout flow.
+* [Building a financial future, for free](multiply-conversational-design.md): Conversational UI design to onboard users through complex financial questions with friendly language.
+
+
+### Technical writing
+Guidance, standards and best practice for technologists.
+
+* [Using GraphQL for your API](https://www.gov.uk/guidance/using-graphql-for-your-api) on GOV.UK
+* [Creating and sharing spreadsheets](https://www.gov.uk/guidance/creating-and-sharing-spreadsheets) on GOV.UK
+
 
 ## 💼 Case studies and professional blogposts
 Writing about my work and other professional topics. 
@@ -33,6 +37,7 @@ Writing about my work and other professional topics.
 
 
 ## 🛍️ Marketing and branded content
+Content to aid discovery and engagement. 
 
 ### Product marketing
 Product education articles for fafinder, a discovery and marketplace platform for independent boutique shopping.
@@ -46,10 +51,3 @@ Ghost writing celebrity style content for Evoke.ie, an Irish fashion and lifesty
 * [Jennifer Aniston’s black blazer is a timeless classic](https://evoke.ie/2017/04/14/uncategorised/jennifer-anistons-black-blazer)
 * [Katie gets in the mood for summer in white trousers](https://evoke.ie/2017/04/26/evoke/katie-holmes-white-trousers)
 * [Demi makes a statement in head to toe metallics](https://evoke.ie/2017/03/08/evoke/demi-lovatos-metallic-outfit)
-
-
-## 🧠 General interest writing
-Writing for various online publications aligned with my personal interests, which I researched and wrote in my free time.
-
-* [A Bloody Waste: Eco-friendly periods](https://headstuff.org/topical/science/eco-friendly-periods/) on Headstuff.com
-* [The Elusive Art of Selling Smells](http://www.fashionstudiesjournal.org/notes/2016/8/15/commentary-3) on Fashion Studies Journal
