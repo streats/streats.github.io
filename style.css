@@ -13,11 +13,15 @@ body {
 
 h1 {
   font-size: 24px;
-  color: #c43c1c
+  color: #c43c1c;
+  font-weight: bold;
+
 }
 
 h2 {
-  color: #0a3647
+  color: #0a3647;
+  font-weight: bold;
+
 }
 
 a:link, a:visited, a:hover, a:active {
