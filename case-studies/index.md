@@ -1,6 +1,5 @@
 ---
 title: Case studies
-navigation_weight: 50
 ---
 
 Here are some in-depth write-ups of specific projects and releases I've worked on in various roles. 

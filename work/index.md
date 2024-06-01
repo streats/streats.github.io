@@ -1,6 +1,5 @@
 ---
 title: Work
-navigation_weight: 40
 ---
 
 A selection of my work across various channels and content disciplines. 

@@ -1,6 +1,5 @@
 ---
 title: Welcome
-navigation_weight: 10
 ---
 
 <link rel="stylesheet" href="style.css">
