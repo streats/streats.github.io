@@ -23,9 +23,9 @@ Message: <br>
 <!-- Set subject line of received emails -->
 <input type="hidden" name="subject" value="Contact form submission from streats.github.io">
 
-<!-- Set sender name of received emails-->
-<input type="hidden" name="from-name" value=name>
-
+<!-- Set sender name as submitted name -->
+<input type="hidden" name="replyTo" value="{{name}}">
+  
 <!-- Specify replyto address as submitted email -->
 <input type="hidden" name="replyTo" value="@">
 
