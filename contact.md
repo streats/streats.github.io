@@ -13,14 +13,19 @@ You can also [open an issue on my GitHub](https://github.com/streats/streats.git
 <!-- Replace with accesKey sent to your email -->
 <input type="hidden" name="accessKey" value="d6e38e6b-4733-477d-bd58-50d7551925fa">
 
-Name: <input type="text" name="name">
-Email: <input type="text" name="email">
-Message: <textarea name="message"></textarea>
+Name:<br>
+<input type="text" name="name"><br><br>
+Email: <br>
+<input type="text" name="email"><br><br>
+Message: <br>
+<textarea name="message"></textarea><br><br>
 
 <!-- If you want form to redirect to a specific url after submission -->
 <input type="hidden" name="redirectTo" value="https://streats.github.io">
-
 <input type="submit" value="Submit" class="button">
+
+<!-- Spam protection - If data is submitted in this field submission will be ignored -->
+<input type="text" name="honeypot" style="display: none;">
 </form>
     
 
