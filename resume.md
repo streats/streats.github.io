@@ -4,7 +4,7 @@ title: Resumé
 
 <link rel="stylesheet" href="style.css">
 
-Content professional with experience in internationalization, mobile products and accessibility. Having worked in startups as well as public sector organizations, I know how to design for a variety of environments and users, and have experience with both high-level content strategy and hands-on content delivery. 
+Content professional focused on information design, user experience and accessibility. Having worked in startups, multinationals as well as public sector organizations, I know how to design for a variety of environments and users, and have experience with both high-level content strategy and hands-on content delivery. 
 
 ## Professional Experience
 
@@ -37,12 +37,12 @@ fafinder (previously frockadvisor) was a discovery app for independent boutique 
 Building on expertise gained in my role in user support, I developed experience in  internationalization and product development, sparking my enthusiasm for designing user-centred experiences. 
 
 ## Skills
-* Content: UX writing, microcopy, content strategy, style guides
+* Content: UX writing, microcopy, 'back-end' content strategy, style guides
 * UX: Information architecture, wireframes, prototyping
 * Research: Survey design, interviews, personas, usability testing, synthesis
-* Accessibility: WCAG, content accessibility, web accessibility
-* Technical: HTML/CSS, Git, Markdown, YAML, Jekyll
-* Tools: Figma, Sketch, InVision, Google Suite, Miro, Mural, Trello, JIRA, GitHub
+* Accessibility: WCAG, content accessibility
+* Technical: HTML/CSS, Git, Markdown, YAML, Jekyll, Python
+* Tools: Figma, GitHub
 
 ## Professional development
 * 2022: Leading Complex Projects (IDEO U)
@@ -51,9 +51,9 @@ Building on expertise gained in my role in user support, I developed experience 
 * 2020: Introduction to Content Design (Government Digital Service course on FutureLearn)
 * 2020: Introduction to UX & Accessible Design (FutureLearn online course)
 * 2020: Designing Strategy (IDEO U)
-* 2020: Introduction to Game Design (Coursera)
 * 2017: Introduction to Descriptive statistics (Udacity)
 
 ## Qualifications & certifications
-* 2015: Higher National Diploma / Associate's Degree, Fashion Design (Dublin Institute of Design)
-* 2008: BA (Hons) French Studies (University of London in Paris, France)
+* 2023: MA Computational Linguistitics (interrupted), Goldsmiths University London
+* 2015: Associate's Degree Fashion Design, Dublin Institute of Design
+* 2008: BA (Hons) French Studies, University of London in Paris
