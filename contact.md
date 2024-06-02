@@ -22,6 +22,10 @@ Message: <br>
 
 <!-- If you want form to redirect to a specific url after submission -->
 <input type="hidden" name="redirectTo" value="https://streats.github.io">
+
+<!-- Set subject line of received emails -->
+<input type="hidden" name="subject" value="Contact form submission from streats.github.io" />
+
 <input type="submit" value="Submit" class="button">
 
 <!-- Spam protection - If data is submitted in this field submission will be ignored -->
