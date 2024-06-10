@@ -33,6 +33,7 @@ Guidance, standards and best practice for technologists.
 Writing about my work and other professional topics. 
 
 * [5 tips for making your GitHub profile page more accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/) on the GitHub Blog
+* [Crafting an inclusive and accessible resumé](https://github.com/orgs/community/discussions/62531) on GitHub Community Discussions
 * [10 tips for working with a service designer](https://services.blog.gov.uk/2022/04/25/10-tips-for-working-with-a-service-designer/) on GOV.UK
 * [New case study: how NHS Digital used API management to support APIs at scale](https://technology.blog.gov.uk/2022/03/11/new-case-study-how-nhs-digital-used-api-management-to-support-apis-at-scale/) on GOV.UK
 
