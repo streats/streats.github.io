@@ -13,5 +13,4 @@ header_pages:
   - craft-notes/index.md
   - accessibility-statement.md
   - contact.md  
-theme: minima
-
+theme: jekyll-swiss
