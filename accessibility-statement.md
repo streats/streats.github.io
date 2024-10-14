@@ -29,4 +29,4 @@ Accessibility functionality for this website that has not yet been tested includ
 
 ## Accessibility feedback
 
-If you would like to help me improve the accessibility of this website, please [contact me](contact.md) or [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues). I’d love to hear from you.
+If you would like to help me improve the accessibility of this website, please [contact me](contact.md) or [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues/new). I’d love to hear from you.
