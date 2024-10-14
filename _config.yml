@@ -6,7 +6,7 @@ relative_links:
   enabled: true
   collections: true
 header_pages:
-  - about.md
+  - index.md
   - resume.md
   - work/index.md
   - case-studies/index.md
