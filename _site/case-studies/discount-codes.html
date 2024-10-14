@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Discount codes in a day | Annie Streater</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Discount codes in a day" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Portfolio and musings" />
+<meta property="og:description" content="Portfolio and musings" />
+<link rel="canonical" href="http://localhost:4000/case-studies/discount-codes.html" />
+<meta property="og:url" content="http://localhost:4000/case-studies/discount-codes.html" />
+<meta property="og:site_name" content="Annie Streater" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Discount codes in a day" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Portfolio and musings","headline":"Discount codes in a day","url":"http://localhost:4000/case-studies/discount-codes.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Annie Streater" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Annie Streater</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about.html">About</a><a class="page-link" href="/resume.html">Resumé</a><a class="page-link" href="/work/">Work</a><a class="page-link" href="/case-studies/">Case studies</a><a class="page-link" href="/craft-notes/">Craft notes</a><a class="page-link" href="/accessibility-statement.html">Accessibility statement</a><a class="page-link" href="/contact.html">Contact</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Discount codes in a day</h1>
+  </header>
+
+  <div class="post-content">
+    <link rel="stylesheet" href="/../style.css" />
+
+<h2 id="project-overview">Project overview</h2>
+
+<ul>
+  <li>Client: Daye is a tampon subscription service. Customers create their custom tampon box according to their needs, and set the delivery frequency based on their cycle length. Tampons are delivered directly to their door just in time for their period.</li>
+  <li>Project: UX design and transactional microcopy for adding discount codes to checkout flow</li>
+  <li>Role: I designed the product logic, produced UI assets, wrote the microcopy (including all possible field states and data validation), and oversaw implementation and testing of the integration with our order management system.</li>
+  <li>Skills: Content strategy, UX writing, UX design</li>
+</ul>
+
+<h2 id="design-problem">Design problem</h2>
+
+<p>We were asked to implement discount codes to take advantage of a promotion opportunity. The timeline to roll it out was very tight (less than 1 day) so I developed a minimum viable design that was also robust and thorough.</p>
+
+<h2 id="getting-to-the-solution">Getting to the solution</h2>
+
+<p>While it might seem that adding a discount code field to the checkout page would be a relatively small, self-contained change, it actually had a much wider impact on the product, as it would affect every place the price was displayed: several pages in the the checkout flow, the account page where users managed their subscription and could view their billing history, transactional emails, as well as our back-office order management system.</p>
+
+<h3 id="field-states">Field states</h3>
+
+<p>There were 3 possible states for the discount code field for 4 possible scenarios:</p>
+
+<ul>
+  <li>Empty</li>
+  <li>Valid - code successfully applied</li>
+  <li>Invalid - code is not a valid code</li>
+  <li>Invalid - code is expired</li>
+</ul>
+
+<p>I designed state messages for the valid and invalid states, and created design assets in Figma to communicate to developers how these should appear. For example, emphasising errors with red field outline and error messages.</p>
+
+<p><img src="https://user-images.githubusercontent.com/12902836/192862623-d44575d1-fd0f-499d-95c2-877c701c366f.png" alt="Figma mockup of discount code fields with different states: Active (“Enter code”), Valid (“VALIDCODE”), Invalid (“FAKECODE” and “That’s not a valid code. Please try again), Invalid expired (“THINGTESTING” and “That code is no longer valid”. The CTA button for all states reads “Apply code”" /></p>
+
+<h3 id="payment-details-screen">Payment details screen</h3>
+
+<p>Step 3 of the checkout flow included both the payment details form where the discount code field would appear, and an order summary detailing the price and shipping period. This order summary also required a content change to support the discount code feature.</p>
+
+<p>Most obviously, we needed to reflect the discount in the order price breakdown, which was simple enough. However, because the user was purchasing a subscription, and the discount only applied to this initial purchase, we needed to make it clear how long the discounted price would apply, when the normal price would resume, and what it would be. Since users could customise their box frequency, some subscriptions renewed every 4 weeks, others might be every 12 weeks. As such, this discount code wasn’t for a fixed period of time such as the first month, so we had to make this copy variable.</p>
+
+<p><img src="https://user-images.githubusercontent.com/12902836/192863021-82f572d4-3acc-446e-9825-73eeecd59bfd.jpeg" alt="Checkout page with highlighted areas showing content changes: Discount code field added to Payment Details section, discount line item in Order Summary, and discount validity details in Order Summary." /></p>
+
+<h3 id="order-confirmation-page">Order confirmation page</h3>
+
+<p>As with the order summary, the order confirmation page was made more complex with the introduction of discounts. Once again, we needed to make it clear what today’s purchase was, with discount applied, but also outline how and when prices would change once the discount code stopped being applied.</p>
+
+<p>To resolve this, I added a “discount applied” label to today’s price, and introduced a “future billing amounts” line item which detailed the same information as on the order summary.</p>
+
+<p><img src="https://user-images.githubusercontent.com/12902836/192863127-5929665e-82ac-4f28-8074-a515d3e80856.jpeg" alt="Order confirmation page with highlighted areas showing content changes: Discount label added to “Subscription amount” and “Future billing amounts” line item added, detailing discounted price, discount validity date and normal subscription price." /></p>
+
+<h3 id="account-page">Account page</h3>
+
+<p>On the account page, the “billing and payment” section included details of the next billing amount. Here again, we needed to make it clear this amount was temporary and had a discount applied.</p>
+
+<p><img src="https://user-images.githubusercontent.com/12902836/192863304-2dc3c4d9-f930-42d8-9241-390bdc2e8f66.jpeg" alt="Subscription settings page with highlighted area of content changes to Billing &amp; Payment section detailing discounted price, discount validity dates and normal price." /></p>
+
+<h2 id="project-outcome">Project outcome</h2>
+
+<p>After implementing content changes across the product, emails and tooling, I put together a test plan to QA the discount code functionality and associated content changes. Working mainly with Engineering, as well as colleagues from other teams who volunteered to help test to meet the tight delivery deadline, we rigorously tested various scenarios on the checkout page (valid and invalid) and verified the price throughout all touchpoints throughout the webapp, order system and emails.</p>
+
+<p>We successfully launched discount codes approximately 13 hours after being given the brief (the next afternoon).</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Annie Streater</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Annie Streater</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Portfolio and musings</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
