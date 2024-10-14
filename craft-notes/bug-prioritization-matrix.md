@@ -3,11 +3,12 @@ title: Bug Prioritization Matrix
 ---
 <link rel="stylesheet" href="/../style.css">
 
-Something I used in my previous life as a product manager. 
+Something I used in my previous life as a product manager.
 
 Note: This is from before I knew anything about accessibility, so does not explicitly cover accessibility issues.  
 
 ## Priority 1 - Highest (Urgent)
+
 These are 'launchblockers', or even in some cases 'someone needs to wake up right now'
 
 - Security, privacy, or life-altering information is compromised
@@ -16,7 +17,7 @@ These are 'launchblockers', or even in some cases 'someone needs to wake up righ
   - Incorrect information or advice shown which could be life-altering (financial, health, legal, etc)
   - Legal or regulatory risk (for example, GDPR non-compliance)
 - App is completely inaccessible or unusable
-  - Browser crashes or freezes 
+  - Browser crashes or freezes
   - Page is blank or inaccessible
   - UI elements broken such that it renders the page unusable
 

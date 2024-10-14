@@ -46,6 +46,7 @@
     <link rel="stylesheet" href="/../style.css" />
 
 <h2 id="project-overview">Project overview</h2>
+
 <ul>
   <li>Client: Multiply is a free app that provides personalised, holistic financial advice for everyday people. To generate their unique financial plan, users provide information about their financial and life circumstances by answering questions in a chatbot-style conversational UI.</li>
   <li>Project: Conversational UI design to guide users through complex financial questions with friendly language</li>
@@ -54,6 +55,7 @@
 </ul>
 
 <h2 id="design-problem">Design problem</h2>
+
 <p>To generate a unique financial plan, we needed users to provide information about their financial and life circumstances - in financial advice, this is known as a fact find. In our previous web-based app, the fact find was a single-page form with conditional logic. This form was linear and required users to answer all questions in one go to be able to progress through the onboarding process. This could leave users ‘stuck’ if they didn’t have certain information to hand - a particularly common obstacle when answering questions about financial assets.</p>
 
 <p><img src="https://user-images.githubusercontent.com/12902836/192864365-4045aeed-9758-4bc8-8aa0-afc28b134e23.png" alt="Legacy web app: a linear questionnaire with multiple choice questions and free text input. If users could not complete a particular question, they would not be able to proceed any further, causing immediate drop-off.
@@ -62,6 +64,7 @@
 <p>As part of our design sprint to redesign the app to a native iOS app, we decided to break the fact find into sections, allowing the user to save information to return to later. We also decided to implement chatbot-style conversational UI to guide users through these onboarding questions, and in line with industry trends and user expectations.</p>
 
 <h2 id="getting-to-the-solution">Getting to the solution</h2>
+
 <p>Starting with our existing fact find, and a list of customer details we knew we needed to capture, based on advice from our in-house financial experts, we grouped the questions into 4 sections: You, Income &amp; Outgoings, Assets, Debts.</p>
 
 <p>Using low-fidelity tools such as whiteboarding, Post-It notes, and Google Docs, I mapped out what questions and content we would need to include in the conversational scripts. I then further developed the Google Doc ‘script’ of all the questions to indicate the conditional logic.</p>
@@ -75,6 +78,7 @@
 <p>Further developing the Figma wireframes, I created simple clickable prototypes to test the content logic and finesse the copy for clarity and comprehension. Finally, I worked with visual designers to produce high-fidelity assets ready for production, with further copy refinements to adapt to UI constraints as needed.</p>
 
 <h3 id="dynamic-content">Dynamic content</h3>
+
 <p>I used conditional logic and dynamic content to streamline the conversation experience and personalise it for the user as much as possible.</p>
 
 <p>For example, leveraging what the user has already told us about their family and finances to only ask questions relevant to their situation, or to ‘pre-fill’ information.</p>
@@ -82,6 +86,7 @@
 <p>This reduces cognitive load by avoiding superfluous content, and builds trust and emotional investment in the app by creating a connection to the user’s life.</p>
 
 <h3 id="using-data-to-design-for-outliers">Using data to design for outliers</h3>
+
 <p>One of the nuances that came up was around cohabiting couples. Being married has certain legal obligations on your finances, so we had to ask people if they were married (or in a civil partnership). However, we knew from user research and market research that many people lived with and shared finances with a partner they weren’t married to (according to data from the Office of National Statistics, cohabiting households were the fastest-growing family type in the UK). This presented a challenge for how to handle these customers.</p>
 
 <p>Initially, we were asking users what their relationship status was: single, married, civil partnership. So we considered adding another option for people who were “cohabiting” or in a “serious relationship” or “not married but sharing finances”. These options either presented gaps (what if they don’t live together, such as long-distance relationships?), introduced ambiguity (what defines a ‘serious’ relationship?) or just felt clunky.</p>
@@ -89,6 +94,7 @@
 <p>Finally, after discussing as a wider group, we decided to reframe the question to “Are you married or in a civil partnership?” since this ultimately what we were trying to determine, rather than the personal nuances of people’s relationships.</p>
 
 <h3 id="meeting-users-where-they-are">Meeting users where they are</h3>
+
 <p>I also wrote ‘contextual help’ texts that would be available to view from within a question, providing definitions for legal or financial complexities and guidance to help users answer questions. Since we knew users would have varying financial and legal literacy, we wanted to make sure users could access further explanation without interrupting the flow or creating additional friction for users who didn’t need it.</p>
 
 <p>For example, following our decision to ask users if they were “married or in a civil partnership”, I wrote contextual help to provide users with a definition of what a “civil partnership” meant - we knew from user research and secondary research that many people do not realize a civil partnership is defined by a legal contract and isn’t just a ‘long-term’ or cohabiting relationship.</p>
@@ -98,6 +104,7 @@
 <p><img src="https://user-images.githubusercontent.com/12902836/192864805-672d8805-706d-492f-ad45-5febdcf860cc.jpeg" alt="Onboarding questions and contextual help: “Are you married or in a civil partnership?” offered users information on “What is a civil partnership?” with an explanation that it is a legal relationship. Another question asking the user if they want to include their child’s student living costs in their college savings goal provided contextual help about average university living costs in the UK, and includes link to the government’s student finance calculator." /></p>
 
 <h2 id="outcome">Outcome</h2>
+
 <p>Following the 2-week sprint to redesign the app, which included the new conversational UI ‘chatbot’ onboarding, the designers and I supported the developers in implementing the functionality through design iteration and testing. We successfully relaunched Multiply as a native iOS app approximately 3 months later, in October 2018, meeting our delivery deadline.</p>
 
 <p>We continued to refine the conversational onboarding in subsequent app updates, for example by rephrasing questions or adding further contextual help based on user research.</p>

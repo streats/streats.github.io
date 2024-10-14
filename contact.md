@@ -5,7 +5,7 @@ title: Contact
 
 You can contact me through [my LinkedIn profile](https://www.linkedin.com/in/streats) or by using the contact form below. 
 
-You can also [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues/new) with feedback or bug reports for this website. 
+You can also [open an issue on my GitHub](https://github.com/streats/streats.github.io/issues/new) with feedback or bug reports for this website.
 
 <form action="https://api.staticforms.xyz/submit" method="post">
 <input type="hidden" name="accessKey" value="d6e38e6b-4733-477d-bd58-50d7551925fa">
@@ -34,5 +34,3 @@ Message: <br>
 
 <input type="submit" value="Submit" class="button">
 </form>
-    
-

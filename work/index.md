@@ -4,18 +4,18 @@ title: Work
 
 <link rel="stylesheet" href="/../style.css">
 
-A selection of my work across various channels and content disciplines. 
+A selection of my work across various channels and content disciplines.
 
 ## Content strategy and style guide development
 
-Developing standards and processes for content-producing teams. 
+Developing standards and processes for content-producing teams.
 
 * GitHub Docs style guide: [Footnotes](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide#footnotes), [Tables](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide#tables)
 * [Language and style guide for Multiply.ai, a fintech startup](multiply-language-style.md)
 
-## UI/UX Writing
+## UX Writing
 
-Product copy for apps, websites and transactional emails for digital products and services. 
+Product copy for apps, websites and transactional emails for digital products and services.
 
 * Web and email messaging for eCommerce site: [Case study - Closing up shop for the holidays](/case-studies/daye-closing-shop.md)
 * UX design and transactional microcopy: [Case study - Discount codes in a day](/case-studies/discount-codes.md): 
