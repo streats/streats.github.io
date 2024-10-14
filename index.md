@@ -12,7 +12,7 @@ Based in Philadelphia, I’m available to work in the Philly area as well as the
 
 ## Accessibility
 
-This site has been optimized for accessibility. To learn more, read my [Accessibility Statement](accessibility-statement1.md).
+This site has been optimized for accessibility. To learn more, read my [Accessibility Statement](accessibility-statement.md).
 
 ## Acknowledgements
 
