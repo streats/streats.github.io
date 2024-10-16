@@ -4,7 +4,7 @@ title: Resumé
 
 <link rel="stylesheet" href="style.css">
 
-UX professional with skills in research, design and strategy. Having worked in startups, multinationals as well as public sector organizations, I know how to design for a variety of environments and users, and have experience with both high-level content strategy and hands-on content delivery.
+Content design specialist with background in user-centered content strategy, accessibility and UX design. Skilled in adapting complex information for consumer audiences and developing content strategies to improve whole user journeys. Strong cross-functional collaborator with notable experience in regulated industries including financial services and healthcare.
 
 ## Professional Experience
 
