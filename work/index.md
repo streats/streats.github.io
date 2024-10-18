@@ -15,11 +15,7 @@ Developing standards and processes for content-producing teams.
 
 ## UX Writing
 
-Product copy for apps, websites and transactional emails for digital products and services.
-
-* Web and email messaging for eCommerce site: [Case study - Closing up shop for the holidays](/case-studies/daye-closing-shop.md)
-* UX design and transactional microcopy: [Case study - Discount codes in a day](/case-studies/discount-codes.md): 
-* Conversational UI for app onboarding: [Case study - Building a financial future, for free](/case-studies/multiply-conversational-design.md)
+See [Case Studies](/case-studies/) for examples of product copy for apps, websites and transactional emails for digital products and services.
 
 ## Technical writing
 
