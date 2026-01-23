@@ -8,6 +8,14 @@ Content design specialist with background in user-centered content strategy, acc
 
 ## Professional Experience
 
+### Content Design Senior Associate, JP Morgan Chase
+
+#### December 2024 to Present
+
+Content strategy and design for the Wires team with Banking Payments. I collaborate with UI/UX designers, researchers, product owners and developers to help Chase customers send and receive money. 
+Notable work: Coming soon. 
+
+
 ### Senior Content Designer, GitHub
 
 #### June 2022 to March 2024
