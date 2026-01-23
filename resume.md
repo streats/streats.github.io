@@ -94,5 +94,6 @@ Building on expertise gained in my role in user support, I developed experience 
 
 ## Other Experience
 
+* Since 2025: Mentor and facilitator (Design) for Chase internal Product bootcamp 
 * Since 2024: UX Mentor for the AIGA UX mentorship program
 * 2021-2022: Regular speaker at UK's Government Digital Service user-centered design career events for underrepresented communities
